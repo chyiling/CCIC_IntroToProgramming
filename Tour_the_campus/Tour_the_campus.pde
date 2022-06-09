@@ -23,7 +23,7 @@ print("dormitory is visible justt beyound the " + plant + ". Our students come f
 println("because we " + adverb + "accept anyone who applies.");
 
 print("we will end tge tour here at " + Proper_name2 + "hall which house the Admissions Office. Feel free to " + Verb);
-print("an application. " + );
+print("an application. ");
 print("");
 print("");
 print("");
